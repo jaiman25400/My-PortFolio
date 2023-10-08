@@ -53,7 +53,7 @@
     },
     {
       "id": "2",
-      "src": "./img/Coop.png",
+      "src": "./img/coop.png",
       "title": "Student Coop System",
       "values": "Next.js - React.js - Node.js - Redux - Express.js - MongoDB - Azure - Jenkins - Selenium - JIRA - HTML - CSS - Rest API - CLoud ",
       "description": "Developed a web application using Next.js, Node.js, Azure and MongoDB to provide University of Windsor students with seamless access to apply for their co-op positions enhancing their chances of success. Implemented Model building, API integration, Responsive UI, Database connectivity and Azure Active Directory for login functionality bolstering the application's data privacy and user authentication. Utilized Selenium to design and execute automated tests for identifying and addressing defects. Implemented a CI/CD pipeline with Jenkins to automate the build and deployment process"
