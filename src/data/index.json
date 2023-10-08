@@ -1,0 +1,98 @@
+{
+  "techStack": [
+    { "name": "React.js", "imageUrl": "./img/React.png" },
+    { "name": "Next.js", "imageUrl": "./img/Next.png" },
+    { "name": "React Native", "imageUrl": "./img/React.png" },
+    { "name": "Django", "imageUrl": "./img/Django.jpg" },
+    { "name": "Node", "imageUrl": "./img/Node.png" },
+    { "name": "ASP.NET", "imageUrl": "./img/ASP.WEBP" },
+    { "name": "Java", "imageUrl": "./img/Java.jpeg" },
+    { "name": "Python", "imageUrl": "./img/Python.png" },
+    { "name": "Redux", "imageUrl": "./img/Redux.png" },
+    { "name": "JavaScript", "imageUrl": "./img/JS.jpg" },
+    { "name": "MongoDB", "imageUrl": "./img/Mongo.png" },
+    { "name": "MySQL", "imageUrl": "./img/MySql.png" },
+    { "name": "MS SQL", "imageUrl": "./img/MSSQLServer.png" },
+    { "name": "AWS", "imageUrl": "./img/AWS.jpg" },
+    { "name": "Azure", "imageUrl": "./img/Azure.png" },
+    { "name": "Git", "imageUrl": "./img/Git.png" }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/profile.png",
+      "title": "Full Stack Development",
+      "description": "With extensive hands-on experience in MERN Stack, I've successfully delivered multiple web and mobile projects. My proficiency spans across the entire development cycle, including testing. I specialize in React, Node, React Native, and MongoDB, making me a skilled Full Stack Developer capable of building versatile applications."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "API Integration/Handling",
+      "description": "My expertise in API integration extends to both REST and GraphQL, with a deep understanding of their intricacies. I possess the ability to seamlessly perform CRUD operations, ensuring efficient data handling. Furthermore, I'm well-versed in implementing security measures, including authorization and authentication."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Database Management",
+      "description": "Proficient in both relational and non-relational databases, I possess the capability to manage and optimize database systems. I've worked with a diverse range of databases including MongoDB, PostgreSQL, MySQL, and MS SQL. Additionally, I excel in implementing robust security measures to safeguard valuable data assets."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Cloud Technology",
+      "description": "With hands-on experience in AWS and Firebase, I've proficiently leveraged cloud technology to develop scalable solutions. My expertise extends to AWS services like Lambda, EC2, S3, DynamoDB, and CloudWatch. Additionally, I've successfully integrated Azure libraries into projects, showcasing a broad cloud technology skill set."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Diabetic1.jpg",
+      "title": "Diabetic Application for Type-1 Patients",
+      "values": "React Native - Node.js - Express.js - MongoDB - Firebase - Express.js - Rest API - JIRA - HTML - CSS - Expo",
+      "description": "Designed and built frontend and backend of application using React Native, dedicated to supporting individuals with Type 1 diabetes in managing their daily carbs and insulin intake. Implemented Firebase and MongoDB databases, application testing, deployment and seamlessly integrated API from the U.S. DEPARTMENT OF AGRICULTURE, empowering users with list of food items. Collaborated with a Canadian client to get project specifications and developed a robust algorithm that utilizes individual insulin-to-carb/correction ratio calculations, resulting personalized insulin dosage recommendations"
+    },
+    {
+      "id": "2",
+      "src": "./img/Coop.png",
+      "title": "Student Coop System",
+      "values": "Next.js - React.js - Node.js - Redux - Express.js - MongoDB - Azure - Jenkins - Selenium - JIRA - HTML - CSS - Rest API - CLoud ",
+      "description": "Developed a web application using Next.js, Node.js, Azure and MongoDB to provide University of Windsor students with seamless access to apply for their co-op positions enhancing their chances of success. Implemented Model building, API integration, Responsive UI, Database connectivity and Azure Active Directory for login functionality bolstering the application's data privacy and user authentication. Utilized Selenium to design and execute automated tests for identifying and addressing defects. Implemented a CI/CD pipeline with Jenkins to automate the build and deployment process"
+    },
+    {
+      "id": "3",
+      "src": "./img/hikeCanada.png",
+      "title": "Go Hikking Canada",
+      "values": "Django - HTML - CSS - Python - Selenium - MySQL",
+      "description": "Led development of a dynamic and user-friendly web application facilitating seamless booking of various hiking places in Canada. Successfully integrated multiple currency functionality, filters, user booking, instructor selection, email confirmation and activity exploration enabling users from different regions to effortlessly book hiking experiences. Developed admin page making application dynamic and implemented suite of automated test cases using Selenium"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "src": "./img/avatar-image.png",
+      "description": "Developed Web applications and handle large Data optimizing SQL queries, MS SQL, Node.js, React.js and MongoDB. \nConducted manual/automated testing of application to ensure functional requirements and design specifications. Facilitated code reviews, problem solving, Data Analysis, gathered software requirements, API building, debugging, and worked in a fast-paced environment",
+      "author_name": "Central Transport",
+      "author_designation": "Application Developer",
+      "location": "Windsor, ON, Canada",
+      "Date": "Jun 2022 - Sept 2023"
+    },
+    {
+      "id": "2",
+      "src": "./img/avatar-image-1.png",
+      "description": "Developed Web/Mobile application using Node.js, React.js, React Native, Python, Django, SQL and MongoDB Proficient in building and managing end-to-end CI/CD pipelines, ensuring automated deployment of frontend, backend, and database Components using AWS and Azure templates. Utilized MVC and MVT architecture throughout projects, indulged in team of professionals and delegated tasks/user stories using Jira, aligned with KPI, Executed data ETL operation on MS Excel. Led team of interns to develop intricate software solutions, collaborating to translate requirements into code",
+      "author_name": "Unada Labs",
+      "author_designation": "Full Stack Developer",
+      "location": "Ahmedabad, Guj, India",
+      "Date": "Aug 2020 - Apr 2022"
+    },
+    {
+      "id": "3",
+      "src": "./img/avatar-image-2.png",
+      "description": "Collaborated with cross-functional teams and stakeholders to ensure successful project delivery on time. Utilized Python, Django, Pandas and PostgreSQL to create a dynamic web application, performed Junit testing and Data Analysis on large data sets using PowerBI",
+      "author_name": "Brainy Beam",
+      "author_designation": "Software Developer Intern",
+      "location": "Ahmedabad, Guj, India",
+      "Date": "May 2020 - Jul 2020"
+    }
+  ]
+}
