@@ -3,7 +3,7 @@ export default function ContactMe() {
     <section id="Contact" className="contact--section">
       <div>
         <p className="sub--title">Lets Get In Touch</p>
-        <h2>Contact Me at</h2>
+        <h2>Find Me at</h2>
       </div>
       <div className="contact--icons">
         <a className="contact--icons-a" href="mailto:jaimanjoshi99@gmail.com">
