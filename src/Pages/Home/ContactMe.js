@@ -36,7 +36,7 @@ export default function ContactMe() {
         >
           <img
             className="contact--icons--img"
-            src="./img/Github.png"
+            src="./img/GitHub.png"
             alt="GitHub"
           />
         </a>
