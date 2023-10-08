@@ -233,6 +233,31 @@ body {
     align-items: flex-start;
     gap: 32px;
   }
+  .hero--section--content--clipboard {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .clipbard-copy-image{
+    height: 35px;
+    width: 35px;
+    background-color: #f5fcff;
+  }
+  .clipbard-copy-image-Done{
+    height: 27px;
+    width: 27px;
+    background-color: #f5fcff;
+  }
+  .copy-button-div{
+    background-color: #f5fcff;
+    border: None;
+  }
+  .hero--section--content--clipboard--email {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    gap: 12px;
+  }
   .hero--section--content {
     display: flex;
     flex-direction: column;
@@ -445,9 +470,7 @@ body {
     align-items: flex-start;
     gap: 32px;
     flex: 1 0 0;
-    background: #fff;
     box-shadow: 0 0 32px 0 rgba(0, 0, 0, 0.15);
-    cursor: pointer;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
   }
